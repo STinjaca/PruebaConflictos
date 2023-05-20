@@ -1,5 +1,5 @@
 def hola(a):
-    print(a)
+    print(a+" este es su mensaje")
     
-hola("este es mi mensaje")
-    
+men = input("diga su mensaje")
+hola(men)
